@@ -1,30 +1,38 @@
-# React + TypeScript + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-
   ![image](https://github.com/Maxdev1017x/Qual_a_idade/assets/117764643/c09e8225-2dba-43ac-b685-799332eff01b)
+
+# Qual sua Idade?
+
+## Sobre o Projeto
+
+"Qual sua Idade?" é uma aplicação simples que permite calcular a sua idade atual. 
+
+## Como Usar
+
+1. No campo "Seu nome", digite o seu nome.
+2. No campo "Ano de nascimento", digite o ano em que você nasceu (por exemplo, 1980).
+3. Após preencher os campos, clique no botão "Descobrir" para que sua idade atual seja calculada e exibida.
+
+## Tecnologias Utilizadas
+
+- ReactJS
+- Vite
+- TypeScript
+
+## Licença
+
+#
+
+## Contato
+
+#
+
+## Contribuições
+
+#
+
+## Licença
+
+#
+
+
 
